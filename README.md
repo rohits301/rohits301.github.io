@@ -1,10 +1,9 @@
-# Software Developer | Makeshift Engineer
-
+# Software Developer | Makeshift Engineer  
 ## Let's track this from the beginning...
-- I have been working as a Software Developer at Publicis Sapient for the past 1 year and 9 months.
+- I have been working as a Software Developer at Publicis Sapient for the past 1 year and 9 months primarily in Java, Spring Webflux and GraphQL.
 - I have worked on building a video-streaming application where users can watch and upload videos. 
 - I have worked on performance testing and improved our application performance to handle 200 concurrent users.
-- I primarly work in Java and Spring Webflux with GraphQL for building microservices. 
+- I enjoy reading novels, listening to music, and connecting with people during my leisure time.
 
 ## Education
 B.E. in Electronics and Communication | Netaji Subhas Institute of Technology, University of Delhi (2022)
@@ -24,9 +23,9 @@ A web application that shortens lengthy URLs into manageable links, using Expres
 Node.js, and MongoDB, and with click tracking for engagement metrics.
 
 ## Fun Facts
-I have spent more time sitting on my chair than I have spent in my engineering.
+I've spent more time sitting in my chair than I did in my engineering degree.
 
-## Contact me
+## Connect with me!
 <a href="https://www.linkedin.com/in/rohitsachdeva31/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="25" height="25"></a>
 <a href="mailto:jacobstinger199@gmail.com"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/envelope.svg" width="25" height="25"></a>
 <a href="https://www.instagram.com/rororo_rohit/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="25" height="25"></a>
