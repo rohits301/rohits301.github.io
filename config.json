@@ -134,7 +134,6 @@
       {
         "name": "Databases & Cloud Platforms",
         "items": [
-          "MySQL",
           "PostgreSQL",
           "MongoDB",
           "AWS (EC2, S3, RDS)",
