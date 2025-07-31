@@ -49,27 +49,27 @@
     "title": "Featured Projects",
     "items": [
       {
-        "name": "Portfolio Website",
-        "date": "July 7, 2025",
-        "description": [
-          "A modern, responsive portfolio website built with vanilla JavaScript",
-          "Features dark/light mode, dynamic content loading, and GitHub integration",
-          "Fully configurable through JSON with automated README generation"
-        ],
-        "picture": "assets/projects/Placeholder.png",
-        "link": {
-          "url": "https://rohits301.github.io",
-          "title": "View Live Site"
-        }
-      },
-      {
         "name": "Splitzy",
-        "date": "July 7, 2025",
+        "date": "2025",
         "description": [
           "A full-stack group expense-splitting app with a responsive UI, designed to support small-to-medium groups",
           "Reduces manual expense calculations by 70% with automated tracking and balance settlements for seamless expense management",
           "Implemented JWT authentication and bcrypt.js for password hashing, securing 100% of login credentials against unauthorized access",
           "Tech Stack: JavaScript, React.js, Express.js, Node.js, PostgreSQL"
+        ],
+        "picture": "assets/projects/splitzy-dashboard.png",
+        "link": {
+          "url": "https://splitzy-seven.vercel.app/",
+          "title": "View Live Site"
+        }
+      },
+      {
+        "name": "Portfolio Website",
+        "date": "July 2025",
+        "description": [
+          "A modern, responsive portfolio website built with vanilla JavaScript",
+          "Features dark/light mode, dynamic content loading, and GitHub integration",
+          "Fully configurable through JSON with automated README generation"
         ],
         "picture": "assets/projects/Placeholder.png",
         "link": {
@@ -114,10 +114,10 @@
         "items": [
           "Spring Boot",
           "Spring Webflux",
-          "Node.js",
           "REST API",
           "GraphQL",
-          "Kafka"
+          "Kafka",
+          "Node.js",
         ]
       },
       {
