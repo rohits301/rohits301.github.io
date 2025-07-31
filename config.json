@@ -57,7 +57,7 @@
           "Implemented JWT authentication and bcrypt.js for password hashing, securing 100% of login credentials against unauthorized access",
           "Tech Stack: JavaScript, React.js, Express.js, Node.js, PostgreSQL"
         ],
-        "picture": "assets/projects/splitzy-dashboard.png",
+        "picture": "assets/projects/splitzy-logo.png",
         "link": {
           "url": "https://splitzy-seven.vercel.app/",
           "title": "View Live Site"
