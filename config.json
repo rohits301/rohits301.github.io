@@ -73,10 +73,10 @@
         "role": "Software Engineer",
         "date": "June 2022 - Present",
         "responsibilities": [
-          "Achieved a 15% reduction in API response time for a hotel reservation application serving 40,000 travel agents by refactoring synchronous Java code into asynchronous code using multithreading.",
+          "Achieved a 15% reduction in API response time for a hotel reservation application serving 40,000 travel agents by refactoring synchronous Java code into asynchronous code using multithreading",
           "Led the high-level architecture design for the transaction history module in a hotel revenue management application impacting 10,000 revenue managers",
           "Designed API contracts, database mappings, user flows, and sequence diagrams, ensuring structured development",
-          "Improved system performance by reducing CPU spikes, leading to a 25% increase in application stability under peak load."
+          "Improved system performance by reducing CPU spikes, leading to a 25% increase in application stability under peak load"
         ],
         "logo": "assets/logos/PS_Logo_RGB.png",
         "logo_dark": "assets/logos/PS_Logo_RGB_1Color_White.png"
