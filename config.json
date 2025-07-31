@@ -62,20 +62,6 @@
           "url": "https://splitzy-seven.vercel.app/",
           "title": "View Live Site"
         }
-      },
-      {
-        "name": "Portfolio Website",
-        "date": "July 2025",
-        "description": [
-          "A modern, responsive portfolio website built with vanilla JavaScript",
-          "Features dark/light mode, dynamic content loading, and GitHub integration",
-          "Fully configurable through JSON with automated README generation"
-        ],
-        "picture": "assets/projects/Placeholder.png",
-        "link": {
-          "url": "https://rohits301.github.io",
-          "title": "View Live Site"
-        }
       }
     ]
   },
