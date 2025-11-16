@@ -32,7 +32,7 @@
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/rohitsachdeva31",
+      "url": "https://linkedin.com/in/rohitsachdeva31",
       "icon": "linkedin",
       "required": true
     }
@@ -42,7 +42,7 @@
     "paragraphs": [
       "👋 Hi, I’m Rohit Sachdeva, a software engineer with 3+ years of experience building scalable microservices and distributed systems using Java, Spring Boot, and AWS.",
       "I’ve worked on high-impact projects in the travel tech domain, from hotel reservation systems to revenue optimization platforms, focusing on performance, clean architecture, and business outcomes.",
-      "Let’s connect and build something impactful together."
+      "Let’s connect and build fun projects!"
     ]
   },
   "projects": {
@@ -122,7 +122,9 @@
         "items": [
           "PostgreSQL",
           "MongoDB",
-          "AWS (EC2, S3, RDS)",
+          "Couchbase",
+          "Redis",
+          "AWS (EC2, S3, RDS, Lambda)",
           "Kubernetes"
         ]
       },
@@ -134,6 +136,17 @@
           "API Design",
           "SDLC"
         ]
+      },
+      {
+        "name": "Generative AI",
+        "items": [
+          "LLM",
+          "RAG (Retrieval Augmentated Generation)",
+          "MCP",
+          "AWS Bedrock",
+          "Langchain",
+          "Prompt Engineering"
+        ]
       }
     ]
   },
@@ -144,6 +157,6 @@
     "show_social_links": true,
     "show_built_with": false,
     "built_with_text": "Built with ❤️ using vanilla JavaScript",
-    "tagline": "Let's connect and build something amazing together!"
+    "tagline": "Let's connect and build fun projects!"
   }
 }
