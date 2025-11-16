@@ -141,7 +141,7 @@
         "name": "Generative AI",
         "items": [
           "LLM",
-          "RAG (Retrieval Augmentated Generation)",
+          "RAG (Retrieval Augmented Generation)",
           "MCP",
           "AWS Bedrock",
           "Langchain",
